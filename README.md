@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5C0017&height=150&section=header&text=Hi,%20I'm%20Bianca!%20&fontSize=50&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ad3a2b&height=150&section=header&text=Hi,%20I'm%20Bianca!%20&fontSize=50&animation=fadeIn&fontAlignY=35" />
 </div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Fullstack%20Aspirant-FFD1DC?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Tech%20Transition-CC0000?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Tech%20Transition-ad3a2b?style=flat-square" />
   <img src="https://img.shields.io/badge/-Gamer-5C0017?style=flat-square" />
 </p>
 
@@ -25,7 +25,7 @@ I'm a **Veterinary Medicine** graduate with a **Master's in Environmental Scienc
 
 **`Languages & Frameworks`**
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=CC0000" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=ad3a2b" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=FFB7B2" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=5C0017" />
 </p>
