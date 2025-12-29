@@ -38,7 +38,7 @@ I'm a **Veterinary Medicine** graduate with a **Master's in Environmental Scienc
 
 ---
 
-### 💌 Connect with me:
+### 💌 Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/bianca-gonzaga-de-ara%C3%BAjo-192109280/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=333333" />
