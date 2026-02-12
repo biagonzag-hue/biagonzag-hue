@@ -25,6 +25,7 @@ I'm a **Veterinary Medicine** graduate with a **Master's in Environmental Scienc
 
 **`Languages & Frameworks`**
 <p align="left">
+  <img src="https://img.shields.io/badge/Typescript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black&color=FFB6C1"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=ad3a2b" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=FFB7B2" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=5C0017" />
