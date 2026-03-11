@@ -1,6 +1,12 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ad3a2b&height=150&section=header&text=Hi,%20I'm%20Bianca!%20&fontSize=50&animation=fadeIn&fontAlignY=35" />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=shark&height=100&section=header&reversal=false&fontSize=50&fontColor=FFFFFF&fontAlign=25&fontAlignY=25&stroke=-&animation=blinking&descSize=15&descAlign=25&descAlignY=25&textBg=false&theme=default"  />
 </div>
+
+###
+
+<h1 align="center">Hi, I'm Bianca!</h1>
+
+###
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Fullstack%20Aspirant-FFD1DC?style=flat-square" />
@@ -9,15 +15,18 @@
 </p>
 
 ---
+###
 
-### ✨   About Me 
+<img align="left" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXcwbDIxNWJsYXAzbjR1dGFjNnplNHE1c3ludGxyaWZsNWJpN2MzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ao9DUiTKH60XS/giphy.gif"  />
+
+###
 
 I'm a **Veterinary Medicine** graduate with a **Master's in Environmental Sciences** who fell in love with code! Currently, I'm weaving my analytical scientific background into the world of **Software Development**.
 
-* 💻 **Current Focus:** Full Stack Development @ Alpha EdTech.
-* 🍵 **Vibe:** Logic puzzles, cozy games, and continuous learning.
-* 🐾 **Background:** From animal care to clean code!
-* 🎯 **Goal:** Building robust and scalable applications
+💻 **Current Focus:** Full Stack Development @ Alpha EdTech. <br>
+🍵 **Vibe:** Logic puzzles, cozy games, and continuous learning. <br>
+🐾 **Background:** From animal care to clean code! <br>
+🎯 **Goal:** Building robust and scalable applications <br>
 
 ---
 
@@ -52,3 +61,21 @@ I'm a **Veterinary Medicine** graduate with a **Master's in Environmental Scienc
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=biagonzaga-hue&color=FFB6C1&style=flat-square&label=PROFILE+VIEWS" />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biagonzag-hue/biagonzag-hue/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biagonzag-hue/biagonzag-hue/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/biagonzag-hue/biagonzag-hue/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=shark&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=default"  />
+</div>
+
+###
