@@ -30,25 +30,26 @@ I'm a **Veterinary Medicine** graduate with a **Master's in Environmental Scienc
 
 ---
 
-### 🛠️ Technologies and Tools
+<h2 align="center"> 🛠️ Technologies and Tools </h2>
 
-**`Languages & Frameworks`**
-<p align="left">
+**<p align="center">`Languages & Frameworks`</p>**
+<p align="center">
   <img src="https://img.shields.io/badge/Typescript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black&color=FFB6C1"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=ad3a2b" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=FFB7B2" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=5C0017" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=5C0017" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white&color=FFB7B2" />
+  <img src="https://img.shields.io/badge/PYTHON-E34F26?style=for-the-badge&logo=python&logoColor=white&color=ad3a2b" />
 </p>
 
-**`Tools & Environment`**
-<p align="left">
+**<p align="center">`Tools & Environment`</p>**
+<p align="center">
   <img src="https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 ---
 
-### 💌 Connect with me
+<h2 align="center"> Connect with me 💌</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/bianca-gonzaga-192109280/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=333333" />
